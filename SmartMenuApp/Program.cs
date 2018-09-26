@@ -13,6 +13,7 @@ namespace SmartMenuApp //test 123
         {
             Program myProgram = new Program();
             myProgram.Run();
+            //fdsgfds 
         }
 
         private void Run()
