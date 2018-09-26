@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SmartMenuLibrary;
 
-namespace SmartMenuApp //test 123
+namespace SmartMenuApp 
 {
     class Program
     {
@@ -13,7 +13,6 @@ namespace SmartMenuApp //test 123
         {
             Program myProgram = new Program();
             myProgram.Run();
-            //change.org
         }
 
         private void Run()
