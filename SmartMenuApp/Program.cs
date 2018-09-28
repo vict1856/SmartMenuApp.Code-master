@@ -13,14 +13,12 @@ namespace SmartMenuApp
         {
             Program myProgram = new Program();
             myProgram.Run();
-            /*Denne tekst er indsat af Simon fra sin stationære computer
-             for at se om synkroniseringen fungerer herfra også*/
         }
 
         private void Run()
         {
             SmartMenu menu = new SmartMenu();
-            menu.LoadMenu("MenuSpec.txt");
+            menu.LoadMenu(@"c:\TextMenu.txt");
             menu.Activate();
         }
     }
