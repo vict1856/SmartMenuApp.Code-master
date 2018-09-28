@@ -1,5 +1,17 @@
-Beregningsalgoritmer
-Tryk menupunkt eller 0 for at afslutte
-Beregn rektanglets areal;rectanglearea
-Beregn polyline længde;polylinelength
-Indlæs talserie;listofnumbers
+UI Menu
+Skriv tallet paa den menu funktionen du gerne vil bruge.
+1. Hello World.
+2. Rektangles Area.
+3. Indlaese serie af tal.
+4. Find sum, min og max af tal serie.
+0. Afslut program.
+
+
+
+UI Menu
+Write the number on the screen-function you would like to use.
+1. Hello World.
+2. Rectangles Area.
+3. Load numbers.
+4. Find sum, min og max of a row of numbers.
+0. Exit Program.

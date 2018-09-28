@@ -1,0 +1,7 @@
+UI Menu
+Skriv tallet paa den menu funktionen du gerne vil bruge.
+1. Hello World
+2. Rektangles Area
+3. Indlaese serie af tal
+4. Find sum, min og max af tal serie;
+0. Afslut program
