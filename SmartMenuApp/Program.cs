@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SmartMenuLibrary;
 
-namespace SmartMenuApp //test 123
+namespace SmartMenuApp 
 {
     class Program
     {
@@ -13,7 +13,8 @@ namespace SmartMenuApp //test 123
         {
             Program myProgram = new Program();
             myProgram.Run();
-            //change.org
+            /*Denne tekst er indsat af Simon fra sin stationære computer
+             for at se om synkroniseringen fungerer herfra også*/
         }
 
         private void Run()
